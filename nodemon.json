@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "AniketUdemy",
+        "DB_PASSWORD":"ANI0103CS221060",
+        "DB_NAME":"places",
+        "GOOGLE_API_KEY": "pk.8b7da3764b761318a8986fc14ffe42eb",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
